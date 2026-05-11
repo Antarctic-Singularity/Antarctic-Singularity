@@ -1,8 +1,8 @@
 # @Antarctic-Singularity
 
 **Interests**
-Machine Learning · Useful AI (I hate slop) · Software Dev · 3D Printing & CAD · Microelectronics
-Decentralized applications
+Machine Learning · Useful AI (I hate slop) · Software Dev
+3D Printing & CAD · Microelectronics · Decentralized applications
 
 **Currently Learning**
 TensorFlow & ML Architecture
